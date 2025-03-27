@@ -2,7 +2,7 @@
 ### Optimizing Warehouse Stock Transfers to Prevent Stockouts  
 
 **Collaborative project with an e-commerce partner to develop a data-driven inventory forecasting system for thousands of SKUs across multiple warehouse locations.**  
-
+(Note: Due to NDA, data has mostly been censored out)
 ---
 
 ## Project Overview  
