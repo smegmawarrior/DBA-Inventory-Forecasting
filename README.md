@@ -1,4 +1,4 @@
-# DBA Inventory Forecasting System  
+# Data Analytics for E-Commerce 
 ### Optimizing Warehouse Stock Transfers to Prevent Stockouts  
 
 **Collaborative project with an e-commerce partner to develop a data-driven inventory forecasting system for thousands of SKUs across multiple warehouse locations.**  
