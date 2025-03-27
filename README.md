@@ -14,7 +14,7 @@ We designed a two-phase solution to:
 ### Key Challenges Addressed  
 - **48 months** of daily transactional data (**7M+ records**) with heterogeneous demand patterns.  
 - **Regional demand variability** across warehouses.  
-- **Real-world business constraints** in inventory deployment.  
+- **Real-world business constraints** in inventory/ supply chain operations.  
 
 ---
 
@@ -26,14 +26,14 @@ We designed a two-phase solution to:
 - Consolidated and cleaned **7M+ daily records** using **Python** (`pandas`, `numpy`).  
 - Developed **interactive Excel dashboards** for preliminary analysis.  
 
-#### 📈 Exploratory Data Analysis  
+#### Exploratory Data Analysis  
 Identified demand patterns by:  
 - **Product category** (ABC analysis via Pareto distributions).  
 - **Warehouse region** (geospatial demand clustering).  
 - **Temporal factors** (seasonality decomposition using `statsmodels`).  
 - **Outlier detection** using statistical methods (IQR, Z-score) and **visual analytics** (`Power BI`).  
 
-#### 📡 Model Development  
+#### Model Development  
 Implemented and optimized multiple forecasting approaches:  
 - **Moving Averages (MA)**  
 - **Simple/Double Exponential Smoothing (SES/DES)**  
@@ -66,7 +66,4 @@ Assessed models using **robust error metrics**:
 - `forecasting_models.ipynb` → Model training & evaluation  
 - `visualization_dashboard.pptx` → Summary insights & findings  
 
----
 
-### 📬 Contact  
-For any questions or collaborations, feel free to reach out!  
