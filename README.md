@@ -20,7 +20,7 @@ We designed a two-phase solution to:
 
 ## Technical Implementation  
 
-### Phase 1: Demand Forecasting Engine  
+### Phase 1: Demand Forecasting  
 
 ####  Data Pipeline  
 - Consolidated and cleaned **7M+ daily records** using **Python** (`pandas`, `numpy`).  
@@ -60,6 +60,8 @@ Assessed models using **robust error metrics**:
  **Python** (`pandas`, `statsmodels`, `scikit-learn`) | **Excel** (pivot analysis) | **Power BI** (visual storytelling) | **Adobe Illustrator** (executive presentations)  
 
 ---
+### Phase 2: Inventory Management  
+
 
 ### Repository Contents  
 - `data_preprocessing.ipynb` → Data cleaning & transformation  
